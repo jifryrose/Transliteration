@@ -269,7 +269,3 @@ const getPronunciation = (word, index) => {
     );
   }
 }
-
-const getTamilString = (word, index) => {
-  return "FEATURE COMING SOON";
-}
